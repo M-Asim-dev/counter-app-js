@@ -1,1 +1,1 @@
-Counter App in JavaScript
+# Counter App in JavaScript
